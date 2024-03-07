@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw37umKOraJJUuFxIwhg4SS5&ust=1709915664560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjYjq_K4oQDFQAAAAAdAAAAABAE" width="1920" height="400">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1920" height="400">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Hussain Ahmed</h1>
