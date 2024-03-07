@@ -7,9 +7,8 @@
 <h3 align="center">A passionate Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedhafeez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HussainAhmed11&label=Profile%20views&color=0e75b6&style=flat" alt="HussainAhmed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamedhafeez0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedhafeez0?logo=twitter&style=for-the-badge" alt="mohamedhafeez0" /></a> </p>
 
 - 🌱 I’m currently learning **Backend , flutter**
 
